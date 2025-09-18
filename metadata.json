@@ -1,0 +1,7 @@
+{
+  "name": "English to French Audio Converter",
+  "description": "An application that takes an English MP3 file, transcribes it, translates the text to French, and synthesizes the French text back into an audio file.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

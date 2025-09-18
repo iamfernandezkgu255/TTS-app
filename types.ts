@@ -1,0 +1,9 @@
+
+export enum ConversionStatus {
+  IDLE = 'IDLE',
+  TRANSCRIBING = 'TRANSCRIBING',
+  TRANSLATING = 'TRANSLATING',
+  SYNTHESIZING = 'SYNTHESIZING',
+  DONE = 'DONE',
+  ERROR = 'ERROR',
+}
